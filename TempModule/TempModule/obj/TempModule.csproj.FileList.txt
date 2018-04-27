@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TempModule.Form1.resources
+obj\Debug\TempModule.Properties.Resources.resources
+obj\Debug\TempModule.csproj.GenerateResource.Cache
+bin\Debug\TempModule.exe
+bin\Debug\TempModule.pdb
+obj\Debug\TempModule.exe
+obj\Debug\TempModule.pdb
